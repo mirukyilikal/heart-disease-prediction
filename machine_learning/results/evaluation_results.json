@@ -1,0 +1,12 @@
+{
+    "model": "Evalml Logistic Regression",
+    "accuracy": 0.8852459016393442,
+    "precision": 0.8387096774193549,
+    "recall": 0.9285714285714286,
+    "f1": 0.8813559322033898,
+    "roc_auc": 0.9632034632034632,
+    "true_negative": 28,
+    "false_positive": 5,
+    "false_negative": 2,
+    "true_positive": 26
+}
